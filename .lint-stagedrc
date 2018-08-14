@@ -1,0 +1,11 @@
+{
+  "*.pcss": [
+    "purfect-syntax check:style-specific",
+    "git add"
+  ],
+  "*.{js,jsx}": [
+    "prettier-standard",
+    "purfect-syntax check:code-specific",
+    "git add"
+  ]
+}

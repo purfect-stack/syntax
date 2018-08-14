@@ -1,0 +1,30 @@
+{
+  "name": "@purfect/syntax",
+  "version": "0.1.0-alpha1",
+  "description": "React app syntax",
+  "bin": {
+    "purfect-syntax": "bin/scripts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/purfect-stack/syntax"
+  },
+  "author": "vytautas.butkus@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "babel-eslint": "8.2.6",
+    "eslint": "4.18.0",
+    "eslint-config-prettier": "2.9.0",
+    "eslint-config-standard": "11.0.0-beta.0",
+    "eslint-config-standard-jsx": "4.0.2",
+    "eslint-plugin-import": "2.8.0",
+    "eslint-plugin-node": "6.0.0",
+    "eslint-plugin-promise": "3.6.0",
+    "eslint-plugin-react": "7.6.1",
+    "eslint-plugin-standard": "3.0.1",
+    "lint-staged": "7.2.0",
+    "prettier-standard": "8.0.1",
+    "stylelint": "9.1.1",
+    "stylelint-config-standard": "18.1.0"
+  }
+}
